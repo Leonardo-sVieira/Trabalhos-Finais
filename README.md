@@ -1,4 +1,4 @@
-# Trabalhos-Finais
+# Trabalhos
 
 Projetos realizados para as disciplinas:
   - Programação Orientada a Objetos -> Sistemas de gerenciamento de Obras de Arte em C++
