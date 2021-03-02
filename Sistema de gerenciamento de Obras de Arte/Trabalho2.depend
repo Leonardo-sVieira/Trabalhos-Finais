@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1573619591 source:c:\users\leona\documents\trabalho2\main.cpp
+	<iostream>
+	"ObraDeArte.h"
+	"Pintura.h"
+	"Escultura.h"
+	"Museu.h"
+
+1573622350 source:c:\users\leona\documents\trabalho2\src\escultura.cpp
+	"Escultura.h"
+
+1573622369 c:\users\leona\documents\trabalho2\include\escultura.h
+	"ObraDeArte.h"
+
+1571540820 source:c:\users\leona\documents\trabalho2\src\obradearte.cpp
+	"ObraDeArte.h"
+
+1573623480 c:\users\leona\documents\trabalho2\include\obradearte.h
+	<string>
+	<iostream>
+
+1573622350 source:c:\users\leona\documents\trabalho2\src\pintura.cpp
+	"Pintura.h"
+
+1573622350 c:\users\leona\documents\trabalho2\include\pintura.h
+	"ObraDeArte.h"
+
+1573623379 source:c:\users\leona\documents\trabalho2\src\museu.cpp
+	"Museu.h"
+
+1573619732 c:\users\leona\documents\trabalho2\include\museu.h
+	<vector>
+	<algorithm>
+	<string>
+	"ObraDeArte.h"
+	"Pintura.h"
+	"Escultura.h"
+
