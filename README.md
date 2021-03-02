@@ -1,13 +1,12 @@
 # Projetos
 
 Projetos realizados para as disciplinas:
-  - Programação Orientada a Objetos -> Sistemas de gerenciamento de Obras de Arte em C++
-  - Algoritmos e Estruturas de Dados 2 -> Sistema de solução do menor caminho em C
 
+Programação Orientada a Objetos -> Sistemas de gerenciamento de Obras de Arte em C++
+Algoritmos e Estruturas de Dados 2 -> Sistema de solução do menor caminho em C
+O sistema de gerenciamento de obras permite a realização de adição de museus com a adição de suas respectivas obras sendo a mesma variando entre escultura e pintura. As entradas dos dados são instanciadas na declaração dos objetos.
 
-O sistema de gerenciamento de obras permite a realização de adição de museus com a adição de suas respectivas obras sendo a mesma variando entre escultura e pintura. A entrada dos dados são instanciadas na declaração dos objetos.
-
-O sistema de solução de caminhos minimos visa receber um grafo orientado e ponderado e um vertice de origem, desta forma calculando por meio do algoritmo de dijkstra o menor caminho possivel da origem até o vertice 0.
+O sistema de solução de caminhos mínimos visa receber um grafo orientado e ponderado e um vértice de origem, desta forma calculando por meio do algoritmo de Dijkstra o menor caminho possível da origem até o vértice 0.
 
 Exemplo de entrada:
 8 13
